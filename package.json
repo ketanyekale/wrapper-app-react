@@ -1,11 +1,10 @@
 {
   "name": "wrapper-app-react",
   "version": "5.0.0-beta1",
-  "description": "Wrapper for Auth App React",
+  "description": "Wrapper for auth-app-react",
   "author": "Ketan Yekale",
   "private": true,
   "dependencies": {
-    "auth-app-react": "file:../auth-app-react",
     "react": "18.2.0",
     "react-dom": "18.2.0",
     "react-router-dom": "6.14.2",

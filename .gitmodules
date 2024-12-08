@@ -1,0 +1,3 @@
+[submodule "src/auth-app-react"]
+	path = src/auth-app-react
+	url = https://github.com/ketanyekale/auth-app-react
